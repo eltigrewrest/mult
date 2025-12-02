@@ -1516,10 +1516,10 @@ https://mults.info/mp4/nu_pogodi_19.mp4
 #EXTINF:-1 tvg-name="Ну, Погоди! ч.20" tvg-logo="https://i.postimg.cc/W42nL6bj/1.jpg" group-title="СоюзМультфильм", Ну, Погоди! ч.20
 #EXTGRP:Ну, Погоди!
 https://mults.info/mp4/nu_pogodi_20.mp4
-#EXTINF:-1 tvg-name="Ну, погоди! Фитиль" tvg-logo="https://i.postimg.cc/W42nL6bj/1.jpg", Ну, погоди! Фитиль
+#EXTINF:-1 tvg-name="Ну, погоди! Фитиль" tvg-logo="https://i.postimg.cc/W42nL6bj/1.jpg" group-title="СоюзМультфильм", Ну, погоди! Фитиль
 https://mults.info/mp4/nu_pogodi_fitil.mp4
 #EXTGRP:Ну, Погоди!
-#EXTINF:-1 tvg-name="Ну, погоди! Телевыпуск 1" tvg-logo="https://i.postimg.cc/W42nL6bj/1.jpg", Ну, погоди! Телевыпуск 1
+#EXTINF:-1 tvg-name="Ну, погоди! Телевыпуск 1" tvg-logo="https://i.postimg.cc/W42nL6bj/1.jpg" group-title="СоюзМультфильм", Ну, погоди! Телевыпуск 1
 https://mults.info/mp4/nu_pogodi_tv_1.mp4
 #EXTGRP:Ну, Погоди!
 #EXTINF:-1 tvg-name="Обезьянки в опере" tvg-logo="https://i.postimg.cc/W42nL6bj/1.jpg" group-title="СоюзМультфильм", Обезьянки в опере
