@@ -2079,9 +2079,9 @@ https://mults.info/mp4/iko_otvazhny_zherebenok.mp4
 https://mults.info/mp4/etc.mp4
 #EXTINF:-1 group-title="По алфавиту абвгд" tvg-logo="https://i.postimg.cc/W42nL6bj/1.jpg",Five O
 https://mults.info/mp4/five_o_clock.mp4
-#EXTINF:-1 group-title="По алфавиту В" tvg-logo="https://i.postimg.cc/W42nL6bj/1.jpg",Les), Властелины времени
+#EXTINF:-1 group-title="По алфавиту В" tvg-logo="https://i.postimg.cc/W42nL6bj/1.jpg", Властелины времени
 https://mults.info/mp4/vlasteliny_vremeni.mp4
-#EXTINF:-1 group-title="По алфавиту Щ" tvg-logo="https://i.postimg.cc/W42nL6bj/1.jpg",Щелкунчик
+#EXTINF:-1 group-title="По алфавиту Ш и Щ" tvg-logo="https://i.postimg.cc/W42nL6bj/1.jpg",Щелкунчик
 https://mults.info/mp4/shchelkunchik.mp4
 #EXTINF:-1 group-title="По алфавиту абвгд" tvg-logo="https://i.postimg.cc/W42nL6bj/1.jpg",Memento Mori
 https://mults.info/mp4/memento_mori.mp4
@@ -3319,6 +3319,8 @@ https://mults.info/mp4/gordy_mysh.mp4
 https://mults.info/mp4/gore_ne_beda.mp4
 #EXTINF:-1 group-title="По алфавиту Г" tvg-logo="https://i.postimg.cc/W42nL6bj/1.jpg",Горе луковое
 https://mults.info/mp4/gore_lukovoe.mp4
+#EXTINF:-1 group-title="По алфавиту Г" tvg-logo="https://i.postimg.cc/W42nL6bj/1.jpg", Гофманиада
+https://mults.info/mp4/gofmaniada_1.mp4
 #EXTINF:-1 group-title="По алфавиту Г" tvg-logo="https://i.postimg.cc/W42nL6bj/1.jpg",гори ясно
 https://mults.info/mp4/gori_gori_yasno.mp4
 #EXTINF:-1 group-title="По алфавиту Г" tvg-logo="https://i.postimg.cc/W42nL6bj/1.jpg",гори!
@@ -9553,8 +9555,6 @@ https://mults.info/mp4/chasovye_poley.mp4
 https://mults.info/mp4/nastoyaschie_priklyucheniya_belki_i_strelki_3_1.mp4
 #EXTINF:-1 group-title="По алфавиту Н" tvg-logo="https://i.postimg.cc/W42nL6bj/1.jpg", Настоящие приключения Белки и Стрелки часть 1
 https://mults.info/mp4/nastoyaschie_priklyucheniya_belki_i_strelki_2_1.mp4
-#EXTINF:-1 group-title="По алфавиту" tvg-logo="https://i.postimg.cc/W42nL6bj/1.jpg", Гофманиада
-https://mults.info/mp4/gofmaniada_1.mp4
 #EXTINF:-1 group-title="По алфавиту Н" tvg-logo="https://i.postimg.cc/W42nL6bj/1.jpg",  Настоящие приключения Белки и Стрелки часть 2
 https://mults.info/mp4/nastoyaschie_priklyucheniya_belki_i_strelki_2_2.mp4
 #EXTINF:-1 group-title="По алфавиту Ч" tvg-logo="https://i.postimg.cc/W42nL6bj/1.jpg",Часы с кукушкой
