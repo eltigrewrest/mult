@@ -15,9 +15,12 @@ https://indigo.ckee.ru/movies/2deb1cf33e8e4be4f20a920e39dd89cbcd334938/555698d54
 #EXTINF:-1 tvg-logo="https://kadikama.info/uploads/posts/2017-01/1484539235_poster-2360.jpg", Король Лев (1994)
 #EXTGRP:Тестируем полнометражные топы
 https://ckee.ru/movies/1a4415bb3bb87a515d6dba2ca7ca778f08249227/fe1bc74940ae0fabe89a77390bcba951:2025120901/1080.mp4:hls:manifest.m3u8
-#EXTINF:-1 tvg-logo="https://kadikama.info/uploads/posts/2017-05/1494322408_poster-645118.jpg", Головоломка (2015)
+#EXTINF:-1 tvg-logo="https://kadikama.info/uploads/posts/2017-05/1494322408_poster-645118.jpg", Головоломка (2015, ZonaFilm)
 #EXTGRP:Тестируем полнометражные топы
-https://indigo.ckee.ru/movies/36f8bfd9400d5b0dd8b55a9a164bac70524f6445/a93b069a63b50ec895173c6553fd5337:2025120901/1080.mp4:hls:manifest.m3u8
+https://dlcache4.vibio.tv/1e76ba67d6af754738038368c8d0defa/2790/2790958/output.mq.mp4/index-v1-a1.m3u8
+#EXTINF:-1 tvg-logo="https://kadikama.info/uploads/posts/2017-05/1494322408_poster-645118.jpg", Головоломка (2015, MultiRex)
+#EXTGRP:Тестируем полнометражные топы
+https://vd353.okcdn.ru/?expires=1765286569034&srcIp=46.242.12.14&pr=90&srcAg=GECKO&ch=-1610167797&ms=45.136.21.68&type=1&sig=1-V5Kn1KL0A&ct=6&urls=185.226.55.34&clientType=46&id=8541367569065
 
 #EXTINF:-1 tvg-name="Том и Джерри 1" tvg-logo="https://i.ibb.co/c2KmRws/SGN-06-24-2023-1687593481705.png" group-title="Том и Джерри серии", Том и Джерри 1
 #EXTGRP:Том и Джерри серии
