@@ -1,3 +1,24 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://kadikama.info/uploads/posts/2017-05/1494322220_poster-7908.jpg", В поисках Немо (2003)
+#EXTGRP:Тестируем полнометражные топы
+https://red.ckee.ru/movies/87bee382f5350a4edb811182e5950f625eac9a56/4a2a8a578439d6b978c28565e617a75a:2025120901/1080.mp4:hls:manifest.m3u8
+#EXTINF:-1 tvg-logo="https://kadikama.info/uploads/posts/2017-05/1494322385_poster-61249.jpg", Тачки (2006)
+#EXTGRP:Тестируем полнометражные топы
+https://green.ckee.ru/movies/46b81dd0d1483488c31ec1952f6a28e92beb79c6/711614b6321621d7a468fc553f21e38a:2025120901/1080.mp4:hls:manifest.m3u8
+#EXTINF:-1 tvg-logo="https://kadikama.info/uploads/posts/2017-05/1494321934_poster-409013.jpg", Тачки 2 (2011)
+#EXTGRP:Тестируем полнометражные топы
+https://ckee.ru/movies/586c39afa97f3d7cdc3a116e5e8c7d72f13b6575/9f079d2de5cf4ed5c9351dc3a103dafb:2025120901/1080.mp4:hls:manifest.m3u8
+#EXTINF:-1 tvg-logo="https://kadikama.info/uploads/posts/2017-04/1492992615_poster-103734.jpg", Кунг-фу Панда (2008)
+#EXTGRP:Тестируем полнометражные топы
+https://indigo.ckee.ru/movies/2deb1cf33e8e4be4f20a920e39dd89cbcd334938/555698d54f494f368e405c8d8432579d:2025120901/1080.mp4:hls:manifest.m3u8
+#EXTINF:-1 tvg-logo="https://kadikama.info/uploads/posts/2017-01/1484539235_poster-2360.jpg", Король Лев (1994)
+#EXTGRP:Тестируем полнометражные топы
+https://ckee.ru/movies/1a4415bb3bb87a515d6dba2ca7ca778f08249227/fe1bc74940ae0fabe89a77390bcba951:2025120901/1080.mp4:hls:manifest.m3u8
+#EXTINF:-1 tvg-logo="https://kadikama.info/uploads/posts/2017-05/1494322408_poster-645118.jpg", Головоломка (2015)
+#EXTGRP:Тестируем полнометражные топы
+https://indigo.ckee.ru/movies/36f8bfd9400d5b0dd8b55a9a164bac70524f6445/a93b069a63b50ec895173c6553fd5337:2025120901/1080.mp4:hls:manifest.m3u8
+
 #EXTINF:-1 tvg-name="Том и Джерри 1" tvg-logo="https://i.ibb.co/c2KmRws/SGN-06-24-2023-1687593481705.png" group-title="Том и Джерри серии", Том и Джерри 1
 #EXTGRP:Том и Джерри серии
 https://v.tom-dzherri.net/video/s/1.mp4
